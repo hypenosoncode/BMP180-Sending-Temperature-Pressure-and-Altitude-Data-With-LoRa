@@ -1,7 +1,7 @@
 # BMP180 Sending Temperature, Pressure and Altitude Data With LoRa
 **Ebyte E22 900T30D - Fixed Mode**
 
-**TR:** Bu projede BMP180 basınç sensöründen alınan verinin LoRa haberleşme modülü aracılığı ile alıcı LoRa 'ya aktarılmasını sağlayan kod yazılmıştır. LoRa parametre ayarlarını yaparken Fixed moda almayı ve adres, kanal ayarlarını koda entegre etmeyi unutmayınız.
+**TR:** Bu projede BMP180 basınç sensöründen alınan verinin LoRa haberleşme modülü aracılığı ile alıcı LoRa 'ya aktarılmasını sağlayan kod yazılmıştır. LoRa parametre ayarlarını yaparken Fixed moduna almayı ve adres, kanal ayarlarını koda entegre etmeyi unutmayınız.
 
 **ENG:** In this project, a code was written to transfer the data received from the BMP180 pressure sensor to the receiver LoRa via the LoRa communication module. When making LoRa parameter settings, do not forget to set it to Fixed mode and integrate the address and channel settings into the code.
 
